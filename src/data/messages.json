@@ -1,6 +1,6 @@
 [
   {
-    "agent": "John Doe",
+    "agent": "Agent1",
     "phone": "+91 8484921364",
     "date": "24 Aug 2025",
     "time": "22:00",
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "agent": "Jane Smith",
+    "agent": "Agent2",
     "phone": "+91 9999999999",
     "date": "25 Aug 2025",
     "time": "10:30",

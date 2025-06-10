@@ -63,7 +63,7 @@ export default function InboxLayout() {
 
         {/* Right sidebar - Summary Panel */}
         <div className="w-1/4 overflow-hidden bg-white rounded-lg shadow-sm">
-          <SummaryPanel />
+          <SummaryPanel agent={selectedAgent} />
         </div>
       </div>
     </div>

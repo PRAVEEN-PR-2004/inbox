@@ -1,5 +1,5 @@
 import React from "react";
-import { Check, ArrowDown, Navigation, Navigation2 } from "lucide-react";
+import { Navigation } from "lucide-react";
 
 export default function ChatWindow({ agent }) {
   return (
